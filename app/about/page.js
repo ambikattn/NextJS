@@ -5,7 +5,7 @@ const HomePage = () => {
     <>
       <div className="align-center">
         <span className="">
-          Welcome to Home Page
+          Welcome to About Us Page
         </span>
       </div>
     </>
