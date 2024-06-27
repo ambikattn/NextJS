@@ -12,8 +12,7 @@ const SSRPage = async () => {
   return (
     <div>
       <h1>SSR Page</h1>
-      <div>
-      <h1>SSG Page</h1>
+   
       <ul>
         {data?.map((el)=>{
            return(
@@ -25,7 +24,7 @@ const SSRPage = async () => {
         })}
       </ul>
     </div>
-    </div>
+ 
   );
 };
 
